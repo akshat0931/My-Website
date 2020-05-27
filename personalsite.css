@@ -1,0 +1,201 @@
+body{
+    color: #40514E;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: garamond;
+}
+.topcontainer{
+    position: relative;
+    background-color: #a1bcd1;
+    padding: 100px 0px 0px 0px;
+}
+#first{
+    position:absolute;
+    right: 7%;
+    width: 196px;
+    height: 138.688px;
+}    
+#second{
+    position: absolute;
+    bottom: 40%;
+    left: 140px;
+    width: 196px;
+    height: 138.688px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    margin:50px auto 0 auto;
+    color:#2244a4;
+    font-size:90px;
+}
+.subheading{
+    color:#2244a4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin:auto;
+}
+.mountain{
+    height:500px;
+    width: 975px;
+
+}
+.middle-container{
+    padding-top: 60px;
+    background-color: #ffffff;
+}
+.me{
+    border-radius: 50%;
+    box-shadow: -1px 2px 4px 4px #43907a;
+    width: 12%;
+    height: 12%;
+}
+.hi{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.875rem;
+    color: #4ab19a;
+    margin: 20px auto auto auto;
+}
+.intro{
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+}
+p{
+    font-family: adobe-garamond-pro, serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.heading{
+    font-family: Montserrat, sans-serif;
+    font-size: 2.8125rem;
+    font-weight: bold;
+    color: darkcyan;
+}
+.skills1{
+    margin-bottom: -10px;
+    width: 60%;
+    text-align: left;
+    line-height: 2;
+    margin:100px auto 100px auto;
+}
+.webicon{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+.subhead{
+    font-family: Sarabun, sans-serif;
+    font-size: 1.5em;
+    color: rgb(69,178,154);
+    font-weight: bold;
+}
+p.skilltext{
+    font-family: adobe-garamond-pro, serif;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+.skills2{  
+    width: 60%;
+    text-align: left;
+    line-height: 2;
+    margin:100px auto 100px auto ;
+
+}
+.webicon2{
+    width: 30%;
+    float: right;
+    padding-right: 50px;
+    
+    
+}
+.subhead2{
+        font-family: Sarabun, sans-serif;
+    font-size: 1.5em;
+    color: rgb(69,178,154);
+    font-weight: bold;
+}
+p.sub{
+        font-family: adobe-garamond-pro, serif;
+    font-size: 1.5em;
+    font-weight: normal;
+    
+}
+.display{
+    display: block;
+
+}
+a:hover{
+   background-color:yellow;
+   cursor: pointer;
+}
+
+hr{
+        background-color: #ffffff;
+    border-color: #c8c0e2;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 0.65rem;
+    width: 10%;
+    margin-top: 100px;
+}
+.contact{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+            .btn{
+            box-shadow: -1px 2px 11px 3px #9fb4f2;
+            background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+            background-color:#7892c2;
+            border-radius:33px;
+            border:5px solid #4e6096;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family:Georgia;
+            font-size:17px;
+            font-weight:bold;
+            padding:12px 59px;
+            text-decoration:none;
+            text-shadow:1px 0px 0px #283966;
+            }
+            .btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+    background-color:#476e9e;
+            }
+            .btn:active {
+            position:relative;
+            top:1px;
+            }
+    .bottom-container{
+           background-color: #c5ded7;
+           margin-top: 50px;
+           padding-top: 40px;
+           padding-bottom: 40px;
+         }
+         .footer{
+             width: 50px;
+             font-size: 1.5em;
+             display: inline-block;
+             padding-right: 100px;
+             align-content: center;
+             align-items: center;
+
+         }
+         .icons{
+             width: 45px;
+             margin-left: 20px ;
+             margin-top: 10px ;
+         }
+         .copyright{
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+             font-size: 20px;
+             padding-top: 40px;
+             color: darkcyan;
+             margin: auto;
+         }
+         .name{
+             text-underline-position: below;
+             text-decoration: underline;
+         }
